@@ -33,7 +33,7 @@ that the environment in which you installed COMPAS is active when you issue the
 above commands.
 
 
-IronPython
+IronPython for Rhino 5.0
 ==========
 
 If you are using Rhino 5.0, you may also want to *replace* the version of IronPython
@@ -119,4 +119,3 @@ Installing plugins
 
 XFunc and RPC
 =============
-

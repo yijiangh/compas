@@ -46,6 +46,7 @@ frequently. Updating your installation to the latest version is easy.
         conda install COMPAS=0.7.0
 
 
+.. _getting-started--virtual-environments:
 Virtual environments
 ====================
 
